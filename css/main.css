@@ -278,15 +278,14 @@ p.top {
 #six {
   position:relative;
   margin:0;
-  background-image:url("../assets/machero2.png");
+  background-image:url("../assets/machero5.png");
   background-size: 980px;
   background-position: bottom;
   background-repeat: no-repeat;  
   padding:2%;
   padding-top:5%;
-  padding-bottom:0;
   background-color:#FBFBFB;
-  height:990px;
+  height:950px;
 }
 
 #sixtextwrap {
